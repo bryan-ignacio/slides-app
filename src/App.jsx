@@ -1,3 +1,9 @@
 export default function App() {
-  return <></>;
+  return (
+    <>
+      <h1>Slides App</h1>
+      <NavBar />
+      <Slide />
+    </>
+  );
 }
